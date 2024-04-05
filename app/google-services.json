@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784435333634",
+    "project_id": "lista-de-chamada-b1436",
+    "storage_bucket": "lista-de-chamada-b1436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784435333634:android:51fb1871743ed768d9751b",
+        "android_client_info": {
+          "package_name": "com.example.listadechamada"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByT_kTFB9C2SnwHBPDOLIiaj2_jBjLNBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
